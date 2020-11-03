@@ -45,3 +45,4 @@ const root = document.getElementById('root');
 if (root) {
   ReactDOM.render(<Hello name="erika" />, root);
 }
+//the way that a parent will pass up information to its children is through props
